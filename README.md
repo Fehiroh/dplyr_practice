@@ -15,9 +15,12 @@ For more information, including citataions, see: https://archive.ics.uci.edu/ml/
 
 ## NYC Flights 13 
 
-
+Airline on-time data for all flights departing NYC in 2013. Also includes useful 'metadata' on airlines, airports, weather, and planes.  
 
 Documentation can be found at: https://cran.r-project.org/web/packages/nycflights13/nycflights13.pdf
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/5/5e/ANA_777-300_Taking_off_from_JFK.jpg "JFK AIrport")
+
 
 # Resources
 

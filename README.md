@@ -15,6 +15,7 @@ For more information, including citataions, see: https://archive.ics.uci.edu/ml/
 
 
 
+Documentation can be found at: https://cran.r-project.org/web/packages/nycflights13/nycflights13.pdf
 
 # Resources
 

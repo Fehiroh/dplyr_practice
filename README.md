@@ -7,6 +7,8 @@ If you get stuck or want to check your work, the answers to each group of questi
 
 ## Iris
 
+Questions are here:  https://github.com/Fehiroh/dplyr_practice/blob/master/iris/iris_questions.R
+
 This is perhaps the best known database to be found in the pattern recognition literature. Fisher's paper is a classic in the field and is referenced frequently to this day. (See Duda & Hart, for example.) The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.  
 
 For more information, including citataions, see: https://archive.ics.uci.edu/ml/datasets/iris
@@ -14,6 +16,8 @@ For more information, including citataions, see: https://archive.ics.uci.edu/ml/
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/49/Iris_germanica_%28Purple_bearded_Iris%29%2C_Wakehurst_Place%2C_UK_-_Diliff.jpg "Iris")
 
 ## NYC Flights 13 
+
+Questions are here: https://github.com/Fehiroh/dplyr_practice/blob/master/nycflights/flight_questions.R
 
 Airline on-time data for all flights departing NYC in 2013. Also includes useful 'metadata' on airlines, airports, weather, and planes.  
 
